@@ -1,4 +1,4 @@
-
+// check git commit
 public class Assignment02Q02 {
 	public static void main (double[] args){
 		double weight = args[0];
